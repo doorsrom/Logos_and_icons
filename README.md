@@ -7,5 +7,5 @@ In this folders, there are all third party app icons to provide a uniform experi
 ## doors_logos
 Here you can find the official Doors logo in various types.
 
-## system_icon
+## system_icons
 In this folder, all the system icons used in various places can be found.
