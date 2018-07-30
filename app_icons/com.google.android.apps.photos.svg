@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="com.google.android.photos.svg">
+   sodipodi:docname="com.google.android.apps.photos.svg">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -76,13 +76,13 @@
      borderopacity="1"
      inkscape:pageopacity="0.18823529"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="659.60883"
-     inkscape:cy="526.27071"
+     inkscape:zoom="0.5"
+     inkscape:cx="604.5103"
+     inkscape:cy="105.83023"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:pagecheckerboard="false"
+     inkscape:pagecheckerboard="true"
      inkscape:window-width="1920"
      inkscape:window-height="1046"
      inkscape:window-x="0"

@@ -16,7 +16,7 @@
    viewBox="0 0 200 200"
    overflow="scroll"
    xml:space="preserve"
-   sodipodi:docname="gmail.svg"
+   sodipodi:docname="com.google.android.gm.svg"
    width="200"
    height="200"
    style="overflow:scroll"
@@ -25,7 +25,7 @@
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs35" /><sodipodi:namedview
-   pagecolor="#007dff"
+   pagecolor="#000000"
    bordercolor="#666666"
    borderopacity="1"
    objecttolerance="10"
@@ -37,9 +37,9 @@
    inkscape:window-height="1046"
    id="namedview33"
    showgrid="false"
-   inkscape:pagecheckerboard="false"
+   inkscape:pagecheckerboard="true"
    inkscape:zoom="1"
-   inkscape:cx="244.69084"
+   inkscape:cx="91.19084"
    inkscape:cy="151.41262"
    inkscape:window-x="0"
    inkscape:window-y="0"
