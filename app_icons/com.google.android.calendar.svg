@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="org.telegram.messenger.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="377.95276,116.73622"
+       end_point="377.95276,651.29473"
+       center_point="377.95276,377.95276"
+       id="path-effect951"
+       is_visible="true"
+       mode="X"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false" />
+    <inkscape:path-effect
+       effect="ellipse_5pts"
+       id="path-effect945"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect925"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1001"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 95,48 H 73 V 23 L 49.71,0.3 C 49.53,0.11 49.28,0 49,0 48.45,0 48,0.45 48,1 V 23 H 23 L 0.3,46.29 C 0.11,46.47 0,46.72 0,47 c 0,0.55 0.45,1 1,1 h 22 v 25 l 23.29,22.7 c 0.18,0.19 0.43,0.3 0.71,0.3 0.55,0 1,-0.45 1,-1 V 73 H 73 L 95.7,49.71 C 95.89,49.53 96,49.28 96,49 96,48.45 95.55,48 95,48 Z"
+       id="path2" />
+    <defs
+       id="defs4">
+      <path
+         id="path1215"
+         d="M 95,48 H 73 V 23 L 49.71,0.3 C 49.53,0.11 49.28,0 49,0 48.45,0 48,0.45 48,1 V 23 H 23 L 0.3,46.29 C 0.11,46.47 0,46.72 0,47 c 0,0.55 0.45,1 1,1 h 22 v 25 l 23.29,22.7 c 0.18,0.19 0.43,0.3 0.71,0.3 0.55,0 1,-0.45 1,-1 V 73 H 73 L 95.7,49.71 C 95.89,49.53 96,49.28 96,49 96,48.45 95.55,48 95,48 Z"
+         inkscape:connector-curvature="0" />
+    </defs>
+    <clipPath
+       id="clipPath8">
+      <use
+         id="use6"
+         xlink:href="#SVGID_63_"
+         overflow="visible"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <radialGradient
+       id="radialGradient74"
+       r="77.190002"
+       cx="22.860001"
+       cy="23"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop70"
+         offset="0"
+         stop-color="#fff" />
+      <stop
+         id="stop72"
+         offset="1"
+         stop-opacity="0"
+         stop-color="#fff" />
+    </radialGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect925-7"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#6b69ff"
+     bordercolor="#66f266"
+     borderopacity="1"
+     inkscape:pageopacity="0.18823529"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="-992.27228"
+     inkscape:cy="508.60983"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     showborder="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:snap-smooth-nodes="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 137.97852 58.90625 C 114.16804 58.90625 95 78.074285 95 101.88477 L 95 607.92578 C 95 631.73625 114.16804 650.90625 137.97852 650.90625 L 644.02148 650.90625 C 667.83196 650.90625 687 631.73625 687 607.92578 L 687 101.88477 C 687 78.074285 667.83196 58.90625 644.02148 58.90625 L 137.97852 58.90625 z M 204 99.207031 A 24.999999 24.999999 0 0 1 229 124.20703 A 24.999999 24.999999 0 0 1 204 149.20703 A 24.999999 24.999999 0 0 1 179 124.20703 A 24.999999 24.999999 0 0 1 204 99.207031 z M 578.54688 99.207031 A 25.000001 25.000001 0 0 1 603.54688 124.20703 A 25.000001 25.000001 0 0 1 578.54688 149.20703 A 25.000001 25.000001 0 0 1 553.54688 124.20703 A 25.000001 25.000001 0 0 1 578.54688 99.207031 z M 338.23438 265.24609 C 358.98435 265.24609 375.78173 270.18742 388.62695 280.06836 C 401.47218 289.70228 407.89648 301.80647 407.89648 316.38086 C 407.89648 330.95525 403.07923 344.17021 393.44531 356.02734 C 384.05842 367.88447 372.69474 377.39491 359.35547 384.55859 C 377.63521 389.49907 392.70342 397.89873 404.56055 409.75586 C 416.41768 421.36597 422.3457 436.43417 422.3457 454.96094 C 422.3457 479.41627 413.20748 499.79605 394.92773 516.09961 C 376.64799 532.40316 354.53904 540.55469 328.60156 540.55469 C 302.66409 540.55469 279.32029 535.36718 258.57031 524.99219 L 264.49805 511.28125 C 281.29565 519.92707 301.55136 524.25 325.26562 524.25 C 348.97989 524.25 367.87864 517.82765 381.95898 504.98242 C 396.03933 491.89017 403.07812 475.21687 403.07812 454.96094 C 403.07812 441.86869 398.26087 430.50501 388.62695 420.87109 C 378.99303 411.23717 367.8775 404.32049 355.2793 400.12109 C 342.68109 395.92169 330.33072 393.82227 318.22656 393.82227 L 316.00195 393.82227 L 316.00195 381.22461 C 334.03467 380.23652 350.70993 373.19576 366.02539 360.10352 C 381.34085 346.76424 388.99805 332.80681 388.99805 318.23242 C 388.99805 307.36338 384.30486 298.59542 374.91797 291.92578 C 365.7781 285.00912 352.19092 281.55078 334.1582 281.55078 C 316.12548 281.55078 296.48817 285.25531 275.24414 292.66602 L 271.16797 278.95703 C 295.37628 269.81716 317.73142 265.24609 338.23438 265.24609 z M 513.47461 270.0625 L 524.5918 270.0625 L 524.5918 534.99609 L 506.80469 534.99609 L 506.80469 292.66602 L 464.93555 314.89844 L 458.63672 303.41211 L 513.47461 270.0625 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,97)"
+       id="rect969" />
+  </g>
+</svg>
