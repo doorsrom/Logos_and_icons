@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="ch.protonmail.android.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect836"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect836-3"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#5c47ff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-126.07649"
+     inkscape:cy="371.74733"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <g
+       transform="matrix(0.28726485,0,0,0.28726485,31.407327,101.07941)"
+       style="fill:#ffffff;fill-opacity:1"
+       id="g922">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 238.688,0.021 c 0,0 -197.877,-6.5 -238.688,213 v 149.5 c 0,0 1.688,16 46.688,48.5 45,32.5 161.5,124 192,124 30.5,0 147,-91.5 192,-124 45,-32.5 46.688,-48.5 46.688,-48.5 v -149.5 c -40.811,-219.5 -238.688,-213 -238.688,-213 z m 135.5,294.5 h -135.5 -135.5 v -81.5 c 27.5,-109 135.5,-110.5 135.5,-110.5 0,0 108,1.5 135.5,110.5 z"
+         id="path918"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 238.688,568.688 c 0,0 -30.667,-3.001 -54.667,-19.667 C 160.021,532.355 0,418.021 0,418.021 v 226.334 c 0,0 1.355,26.333 30.355,26.333 29,0 208.333,0 208.333,0 0,0 179.333,0 208.333,0 29,0 30.355,-26.333 30.355,-26.333 V 418.021 c 0,0 -160.022,114.334 -184.022,131 -24,16.666 -54.666,19.667 -54.666,19.667 z"
+         id="path920"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
