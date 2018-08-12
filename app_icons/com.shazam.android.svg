@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg883"
+   sodipodi:docname="com.shazam.android.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <defs
+     id="defs877">
+    <linearGradient
+       gradientTransform="matrix(0,84.1045,84.1045,0,16342.052,38931.449)"
+       y2="-191.41228"
+       x2="-460.35846"
+       y1="-191.41066"
+       x1="-460.36523"
+       gradientUnits="userSpaceOnUse"
+       id="path3396_1_">
+      <stop
+         id="stop12"
+         style="stop-color:#2255FF"
+         offset="0" />
+      <stop
+         id="stop14"
+         style="stop-color:#00AAFF"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#5b3ce8"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="73.686179"
+     inkscape:cy="321.90113"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata880">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <g
+       id="g19"
+       transform="matrix(4.2609599,0,0,-4.2636727,-863.13866,1194.1984)">
+      <linearGradient
+         gradientTransform="matrix(0,84.1045,84.1045,0,16342.052,38931.449)"
+         y2="-191.6212"
+         x2="-459.51791"
+         y1="-191.6212"
+         x1="-460.51791"
+         gradientUnits="userSpaceOnUse"
+         id="linearGradient872">
+        <stop
+           id="stop868"
+           style="stop-color:#2255FF"
+           offset="0" />
+        <stop
+           id="stop870"
+           style="stop-color:#00AAFF"
+           offset="1" />
+      </linearGradient>
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         d="m 243.8,220.9 c -3.2,-3.5 -8.9,-9 -9.2,-9.2 -0.8,-0.7 -1.7,-1.1 -2.7,-1.1 -1,0 -2,0.4 -2.8,1.2 -1.5,1.6 -1.4,4 0.1,5.5 0.1,0.1 5.8,5.5 8.8,8.8 1.4,1.6 2.1,3.6 2,5.7 -0.1,2.2 -1.2,4.3 -3,5.8 -2.4,2 -7,2.5 -9.9,-0.1 -1.7,-1.6 -3.8,-3.8 -3.9,-3.9 -1.5,-1.6 -3.9,-1.7 -5.5,-0.2 -1.6,1.5 -1.7,3.9 -0.2,5.5 0.1,0.1 2.4,2.6 4.4,4.4 5.5,5 14.6,5.1 20.2,0.2 3.4,-2.9 5.4,-6.9 5.7,-11.2 0.3,-4.2 -1.1,-8.3 -4,-11.4 m -23.5,-0.3 c -3.6,0 -7.2,1.2 -10,3.6 -3.4,2.9 -5.4,6.9 -5.7,11.2 -0.3,4.2 1.2,8.2 4,11.4 3.2,3.5 8.9,9 9.2,9.2 1.6,1.5 4,1.4 5.5,-0.1 1.5,-1.6 1.4,-4 -0.1,-5.5 -0.1,-0.1 -5.8,-5.5 -8.8,-8.8 -1.4,-1.6 -2.1,-3.6 -2,-5.7 0.1,-2.2 1.2,-4.3 3,-5.8 2.4,-2 7,-2.5 9.9,0.1 1.7,1.6 3.8,3.8 3.9,3.9 1.5,1.6 3.9,1.7 5.5,0.2 1.6,-1.5 1.7,-3.9 0.2,-5.5 -0.1,-0.1 -2.4,-2.6 -4.4,-4.4 -2.8,-2.5 -6.5,-3.8 -10.2,-3.8"
+         class="st2"
+         id="path3408" />
+    </g>
+  </g>
+</svg>
