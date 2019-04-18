@@ -21,5 +21,5 @@ In this folders, there are all third party app icons to provide a uniform experi
 ## system_icons
 In this folder, all the system icons used in various places can be found.
 
-In the main folder "/system_icons" you can find Android vector files in xml format. In "/system_icons/svgs" you can find the vector files in the classic svg format, in case you need them outside of the standard app developing.
-Also, in order to make status bar icons easier to find, they are stored in the extra folders "/system_icons/status_bar" respectively "/system_icons/svgs/status_bar".
+In the folder `/system_icons/android` you can find Android vector files in xml format. In `/system_icons/svgs` you can find the vector files in the classic svg format, in case you need them outside of the standard app developing.
+Also, in order to make status bar icons easier to find, they are stored in the extra folders `/system_icons/android/status_bar` respectively `/system_icons/svgs/status_bar`.

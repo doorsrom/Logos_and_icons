@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress AndroidUnknownAttribute -->
+<vector xmlns:api24="http://schemas.android.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android"
+    android:viewportWidth="64"
+    android:viewportHeight="64"
+    android:width="226.771648dp"
+    android:height="226.771648dp">
+    <group
+        android:translateY="-233">
+        <group
+            android:scaleX="4.631726"
+            android:scaleY="4.631726"
+            android:translateX="-105.198"
+            android:translateY="-919.7252">
+            <path
+                android:pathData="M27.797269 248.89127c-0.868193 0 -1.354439 0.43233 -1.354439 1.34617l0 7.8636c0 0.86363 0.494477 1.32963 1.36684 1.32963l3.612701 0c0.872352 0 1.36684 -0.466 1.36684 -1.32963l0 -7.8636c0 -0.91384 -0.486257 -1.34617 -1.354439 -1.34617 -1.212501 0 -2.425002 0 -3.637503 0zm0.02016 0.87436c1.199078 0 2.398154 0 3.597232 0 0.368718 0 0.501261 0.14132 0.501261 0.47439l0 7.84035c0 0.31929 -0.2198 0.47439 -0.501261 0.47439l-3.597195 0c-0.281461 0 -0.501261 -0.1551 -0.501261 -0.47439l0 -7.84035c0 -0.33307 0.132543 -0.47439 0.501261 -0.47439z"
+                android:fillColor="#ffffff"
+                android:strokeLineJoin="miter"
+                android:strokeLineCap="round"
+                android:strokeMiterLimit="4"
+                android:fillAlpha="0.9751244" />
+            <path
+                android:pathData="M24.916853 255.62884l0.0083 2.84014c0 1.59028 0.85172 2.45566 2.46135 2.45566l1.941999 0 0.584462 0 1.941999 0c1.609644 0 2.461344 -0.86538 2.461344 -2.45566l0.008 -2.84014 -0.87643 0.005 0 2.8267c0 1.0001 -0.65956 1.58957 -1.577162 1.58957l-1.957501 0 -0.584462 0 -1.95802 0c-0.917599 0 -1.577165 -0.58947 -1.577165 -1.58957l0 -2.8267z"
+                android:strokeLineJoin="miter"
+                android:fillColor="#ffffff"
+                android:strokeLineCap="butt"
+                android:strokeMiterLimit="4" />
+            <path
+                android:pathData="M29.192017 260.89984l0 0.96273 -1.787488 0 0 0.82682 4.431771 0 0 -0.82682 -1.788007 0 0 -0.96273z"
+                android:fillColor="#ffffff"
+                android:strokeLineJoin="miter"
+                android:strokeLineCap="square"
+                android:strokeMiterLimit="4" />
+        </group>
+    </group>
+</vector>
